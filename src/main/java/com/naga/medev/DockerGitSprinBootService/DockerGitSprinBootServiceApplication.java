@@ -12,6 +12,7 @@ public class DockerGitSprinBootServiceApplication {
 	public static void main(String[] args) {
 		System.out.print("Welcome to Springboot app");
 		SpringApplication.run(DockerGitSprinBootServiceApplication.class, args);
+		System.out.print("End to Springboot app ");
 	}
 
 }
